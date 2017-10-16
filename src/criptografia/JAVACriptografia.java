@@ -1,3 +1,7 @@
+/**
+ * Neste exemplo será demonstrado um algoritmo de substituição simples. Utilizaremos, inicialmente, o método da Cifra de Cesar. A proposta final é desenvolver uma interface Gráfica onde seja possível que o usuário insira um arquivo .txt com o TEXTO PLANO e o sistema devolva outro arquivo .txt com o TEXTO CIFRADO. Também deverá ser possível efetuar o caminho reverso, ou seja: Inserir o texto cifrado e recebe-lo descriptografado 
+ */
+
 package criptografia;
 
 /**
