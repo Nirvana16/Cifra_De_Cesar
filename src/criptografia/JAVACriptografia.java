@@ -13,7 +13,11 @@ public class JAVACriptografia {
         // TODO code application logic here
         
         Codificador c1 = new Codificador();
-        c1.cifrarVoid("Arroz com Cebola");
+        c1.cifrar1("Arroz com Cebola");
+        
+        System.out.println("----------------------------");
+        
+        c1.descriptografar("Bssp0#Qpy#DfKpgb");
         
         
     }
